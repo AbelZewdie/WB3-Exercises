@@ -6,7 +6,7 @@ let letters = ["a","a","c"] //array/list
 
 function parseAndDisplayName(name){
   console.log("Name: " + name)
-  let delimiterSpace = " ";
+  let delimiterSpace = (" ");
 
   let partsArrayList = name.split(delimiterSpace); //converts a single string in  and array with one more string inside
   
@@ -21,7 +21,7 @@ function parseAndDisplayName(name){
     console.log("First name :" + partsArrayList[0]);
     console.log("Middle name :" + partsArrayList[1]);
     console.log("Last name :" + partsArrayList[2]);
-  
+
   }
 }
 parseAndDisplayName("Cher");
