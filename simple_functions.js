@@ -20,3 +20,4 @@ function favoritePlace() {
   console.log("My favorite place is Ethiopia, cause I was born and raised in there.")
 }
 favoritePlace();
+
