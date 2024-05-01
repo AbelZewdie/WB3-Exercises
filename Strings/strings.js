@@ -1,6 +1,6 @@
 
 s = "abc" // in memory array list ['a','b','c','\0']
-
+w
 console.log(s.length) // length 3 (size might be 2 bytes per letter plus 1 for null string terminator)
 
 console.log(s.indexOf("c")) //  2
