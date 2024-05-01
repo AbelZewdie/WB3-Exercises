@@ -4,7 +4,7 @@ DI:12345-M //the medium (M) part 12345 is supplied by DI
 ACE:1-12 //the size 12 part 1 is supplied by ACE
 
 // that returns all characters before the :
-function getSupplier(code){
+function getSupplier(code){k
 }
 
 
